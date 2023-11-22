@@ -79,7 +79,7 @@ fun QuizScreen(
                             painter = painterResource(id = R.drawable.people),
                             contentDescription = "people",
                             colorFilter = ColorFilter.tint(Color.Black),
-                            modifier = Modifier.size(40.dp)
+                            modifier = Modifier.size(39.dp)
                         )
                     }
 
